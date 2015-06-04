@@ -225,3 +225,4 @@ list. Specialized discussions or design issues should take place on
 the PyData mailing list / Google group:
 
 https://groups.google.com/forum/#!forum/pydata
+
